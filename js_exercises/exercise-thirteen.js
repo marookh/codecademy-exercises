@@ -1,0 +1,14 @@
+let myFavoriteColor = 'blue';
+console.log('My favorite color is ' + myFavoriteColor + '.');
+let whatIsThis = 'variables';
+let name = 'Mahsa Ayoub';
+let age = 18;
+console.log('These are ' + whatIsThis);
+console.log('My name is ' + name + ' and I am ' + age + ' years old' + '.');
+let myWork = "I am student";
+console.log(myWork);
+let practice = 'practice time';
+console.log('It is my ' + practice + '.');
+let letMeKnow = 'What is on your mind?';
+let myName = 'Aziza jan';
+console.log('My name is ' + myName + '.');
